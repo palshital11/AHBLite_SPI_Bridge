@@ -43,8 +43,3 @@ TFT / OLED display interfacing
 Sensor or peripheral communication
 
 Embedded SoC-FPGA data bridging
-
-Author
-
-Shitalkumar Pal
-EXTC Engineering | FPGA & Embedded Systems
